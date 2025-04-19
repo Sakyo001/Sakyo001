@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Solo Leveling Adaptation**
 
-- 🌱 I’m currently learning **Backend Stuff, Mern Stack, Modern UI Design**
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning**
 
 - 📫 How to reach me **https://www.facebook.com/johnroel.masagnay/**
 
