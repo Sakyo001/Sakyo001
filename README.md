@@ -38,11 +38,28 @@
 
 <img src="https://img.shields.io/badge/STATUS-Active%20Quest-9D4EDD?style=for-the-badge&labelColor=2E0854"/>
 
-- 🔮 Currently working on **Solo Leveling Adaptation**
-- 🟣 Currently learning **Artificial Intelligence & Machine Learning**
-- 💛 I build apps, tools, and content — one quest at a time
-- 📫 Reach me here: **[facebook.com/johnroel.masagnay](https://www.facebook.com/johnroel.masagnay/)**
-- ⚡ Fun fact: **I can go crazy**
+<table>
+<tr>
+<td>🔮&nbsp;<b>Current&nbsp;Quest</b></td>
+<td><img src="https://img.shields.io/badge/Solo%20Leveling%20Adaptation-9D4EDD?style=flat-square&labelColor=2E0854"/></td>
+</tr>
+<tr>
+<td>🟣&nbsp;<b>Grinding&nbsp;Skill&nbsp;Points</b></td>
+<td><img src="https://img.shields.io/badge/Artificial%20Intelligence%20%26%20Machine%20Learning-7B2CBF?style=flat-square&labelColor=2E0854"/></td>
+</tr>
+<tr>
+<td>💛&nbsp;<b>Class</b></td>
+<td><img src="https://img.shields.io/badge/Builder%20of%20Apps%2C%20Tools%20%26%20Content-FFD60A?style=flat-square&labelColor=8A5A00&logoColor=black"/></td>
+</tr>
+<tr>
+<td>📫&nbsp;<b>Guild&nbsp;Contact</b></td>
+<td><a href="https://www.facebook.com/johnroel.masagnay/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a></td>
+</tr>
+<tr>
+<td>⚡&nbsp;<b>Passive&nbsp;Trait</b></td>
+<td><img src="https://img.shields.io/badge/I%20can%20go%20crazy-FF6EC7?style=flat-square&labelColor=5C0B5C"/></td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,100:0077B6&height=4&width=100%25" width="100%"/>
 
@@ -86,11 +103,6 @@
 <img src="https://img.shields.io/badge/DATA-Hunter%20Log-FF6EC7?style=for-the-badge&labelColor=5C0B5C"/>
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sakyo001&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=1a0033&title_color=ff6ec7&icon_color=00e5ff&text_color=e0aaff"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakyo001&layout=compact&locale=en&theme=radical&hide_border=true&bg_color=1a0033&title_color=ff6ec7&text_color=e0aaff"/>
-
-<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakyo001&theme=radical&hide_border=true&background=1A0033&stroke=FF6EC7&ring=00E5FF&fire=FFD60A&currStreakLabel=FFD60A" alt="sakyo001"/>
 
