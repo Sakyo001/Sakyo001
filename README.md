@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakyo001&label=Profile%20views&color=0e75b6&style=flat" alt="sakyo001" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://i.pinimg.com/736x/29/8a/0a/298a0ae2c08c7ea5b514bc0d5442be8f.jpg" width="100%" height="50%" alt="sakyo001" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://i.pinimg.com/736x/29/8a/0a/298a0ae2c08c7ea5b514bc0d5442be8f.jpg" width="50" height="20" alt="sakyo001" /></a> </p>
 
 - 🔭 I’m currently working on **Solo Leveling Adaptation**
 
