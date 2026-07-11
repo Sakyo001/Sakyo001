@@ -4,6 +4,10 @@
 
 <img src="https://komarev.com/ghpvc/?username=sakyo001&label=Profile%20Views&color=6A0DAD&style=for-the-badge" alt="sakyo001"/>
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=500&lines=System+Window+Loading...;Shadow+Builder+Online;Leveling+Up+Every+Day" alt="Typing SVG" />
+
 </div>
 
 <br/>
@@ -28,74 +32,84 @@
 </tr>
 </table>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:9D4EDD,100:5A189A&height=4&width=100%25" width="100%"/>
+
 ## ⚔️ About Me
 
-- 🔭 Currently working on **Solo Leveling Adaptation**
-- 🌱 Currently learning **Artificial Intelligence & Machine Learning**
-- 💜 I build apps, tools, and content — one quest at a time
+<img src="https://img.shields.io/badge/STATUS-Active%20Quest-9D4EDD?style=for-the-badge&labelColor=2E0854"/>
+
+- 🔮 Currently working on **Solo Leveling Adaptation**
+- 🟣 Currently learning **Artificial Intelligence & Machine Learning**
+- 💛 I build apps, tools, and content — one quest at a time
 - 📫 Reach me here: **[facebook.com/johnroel.masagnay](https://www.facebook.com/johnroel.masagnay/)**
 - ⚡ Fun fact: **I can go crazy**
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00B4D8,100:0077B6&height=4&width=100%25" width="100%"/>
 
 ## 🗡️ Tech Arsenal
 
+<img src="https://img.shields.io/badge/EQUIPMENT-Loadout-00B4D8?style=for-the-badge&labelColor=03045E"/>
+
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6EC7,100:C724B1&height=4&width=100%25" width="100%"/>
 
 ## 🔮 Stats
 
+<img src="https://img.shields.io/badge/DATA-Hunter%20Log-FF6EC7?style=for-the-badge&labelColor=5C0B5C"/>
+
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sakyo001&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=1a0033&title_color=c77dff&icon_color=9d4edd&text_color=e0aaff"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakyo001&layout=compact&locale=en&theme=radical&hide_border=true&bg_color=1a0033&title_color=c77dff&text_color=e0aaff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sakyo001&show_icons=true&locale=en&theme=radical&hide_border=true&bg_color=1a0033&title_color=ff6ec7&icon_color=00e5ff&text_color=e0aaff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakyo001&layout=compact&locale=en&theme=radical&hide_border=true&bg_color=1a0033&title_color=ff6ec7&text_color=e0aaff"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakyo001&theme=radical&hide_border=true&background=1A0033&stroke=9D4EDD&ring=C77DFF&fire=E0AAFF&currStreakLabel=E0AAFF" alt="sakyo001"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sakyo001&theme=radical&hide_border=true&background=1A0033&stroke=FF6EC7&ring=00E5FF&fire=FFD60A&currStreakLabel=FFD60A" alt="sakyo001"/>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD60A,100:FF9E00&height=4&width=100%25" width="100%"/>
 
 ## 💬 Connect
+
+<img src="https://img.shields.io/badge/GUILD-Contact%20Channel-FFD60A?style=for-the-badge&labelColor=8A5A00"/>
 
 <div align="center">
 
 <a href="https://www.facebook.com/johnroel.masagnay/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="35" width="45"/>
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9D4EDD,50:6A0DAD,100:2E0854&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9E00,25:FF6EC7,50:9D4EDD,75:00B4D8,100:2E0854&height=100&section=footer" width="100%"/>
